@@ -2,14 +2,5 @@
 bin/
 obj/
 
-# ASP.NET
-project.lock.json
-project.fragment.lock.json
-artifacts/
-
-# Blazor
-dist/
-node_modules/
-
 .env
 *.env
