@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Authentication.Cookies;
-using NaztifyBlazor.Components;
+using naztify3.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
